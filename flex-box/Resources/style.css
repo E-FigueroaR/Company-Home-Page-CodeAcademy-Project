@@ -1,0 +1,231 @@
+/*UNIVERSAL*/
+
+body{
+    font-family: 'Spectral', serif;
+    background-color: #000;
+    text-align: center;
+}
+
+html{
+    scroll-behavior:smooth;
+}
+p{
+    font-family: 'Karla', sans-serif !important;
+    color:#F4F4F4;
+
+}
+
+a{
+    color: #F4F4F4;
+
+}
+
+a:hover{
+    color:#F0A500;
+}
+
+/*NAV*/
+
+nav{
+    color: #F4F4F4;
+    display:flex;
+    height: 2%;
+    border-bottom: 1px solid #F4F4F4;
+    justify-content:flex-end;
+    
+}
+
+
+ul{
+    display:inline-block;
+    
+}
+
+li{
+    display:inline-block;
+    margin: 10px 20px;
+    
+    
+}
+#logo{
+    height: 60px;
+    width: auto;
+    position: absolute;
+    left: 10px;
+}
+
+/*HEAD*/
+
+
+
+h1{
+    color:#F4F4F4;
+    position: absolute;
+    top: 500px;
+    background-color:black;
+    border-bottom: 1px solid white;
+    border-top: 1px solid white;
+    padding: 5px 520px;
+    font-size: 5rem;
+
+}
+
+#camera{
+    max-width: 90%;
+    height: auto;
+    max-height: 90%;
+}
+
+.title{
+    display: flex;
+    height: 1000px;
+    justify-content: center;
+
+}
+
+/*Mission*/
+
+#mission{
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    
+}
+
+#theater{
+    max-width: 90%;
+    height: auto;
+    max-height: 90%;
+}
+
+h2{
+    color: #F4F4F4;
+    display: block;
+    position:absolute;
+    top: 1250px;
+    background-color: #000001;
+    padding: 5px 150px;
+    font-size: 2.5rem;
+    border-bottom: 1px solid white;
+    border-top: 1px solid white;
+    left: 34%;
+
+}
+
+
+#lema{
+    position: relative;
+    width: 90%;
+    margin: auto;
+    bottom: 450px;
+    background-color: #000001;
+    border-bottom: 1px solid white;
+    border-top: 1px solid white;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-size:1.2rem;
+}
+
+/*Activities*/
+
+#netflix{
+    max-width: 30%;
+    max-height: 30%;
+    border: 1px solid white;
+    position: relative;
+    right: 70px;
+}
+
+.games{
+    color: #F4F4F4;
+    display: inline;
+    font-family: 'Karla', sans-serif !important;
+    font-size: 1.1rem;
+    display:flex;
+    justify-items: center;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    margin: 150px;
+
+    
+}
+
+#antique{
+    max-width: 30%;
+    max-height: 30%;
+    border: 1px solid white;
+    position: relative;
+    right: 80px;
+    width: 560px;
+}
+#cannes{
+    max-width: 30%;
+    max-height: 30%;
+    border: 1px solid white;
+    position: relative;
+    right: 70px;
+    
+
+}
+
+#act{
+    display: inline-flex;
+
+
+
+}
+
+h3{
+    color: #F4F4F4;
+    display: block;
+   
+  
+    background-color: #000001;
+    padding: 5px 150px;
+    font-size: 2.5rem;
+    border-bottom: 1px solid white;
+    border-top: 1px solid white;
+    
+
+}
+
+.activities{
+    height:800px;
+    
+}
+
+span{
+    position: relative;
+    left:130px;
+    top:120px;
+    
+}
+
+
+footer{
+    max-height: 3%;
+    height:2%;
+    position: fixed;
+    bottom: 20px;
+    
+    width: 100%;
+    
+    
+    
+}
+
+#foot{
+    background-color: black;
+    border-top: 1px solid #F0A500;
+    
+}
+
+#contact{
+    color: #F4F4F4 !important;
+    position:relative;
+    bottom:10px;
+}
+
+
+
